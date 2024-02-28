@@ -8,24 +8,23 @@ home-cloud-stack is toy project to build OpenStack cluster and build kubernetes 
 
 <img src="/images/architecture-odroidh2-cluster.png" width="800"/>
 
-* Links
-  * ODROID-H2 Cluster :
-  * OpenStack on ODROID-H2 Cluster :
+* ODROID-H2 Cluster Build : https://ssup2.github.io/blog-software/docs/record/odroid-h2-cluster-build/
+* OpenStack on ODROID-H2 Cluster : 
 
 ## OpenStack Octavia test with kubernetes external OpenStack controller
 
 <img src="/images/architecture-openstack-kubernetes-octavia.png" width="800"/>
 
-* Link :
+* Kubernetes ClusterAPI Architectre on OpenStack : https://ssup2.github.io/blog-software/docs/theory-analysis/kubernetes-clusterapi-architecture-openstack/
 
 ## OpenStack Cinder test with kubernetes cinder CSI plugin
 
 <img src="/images/architecture-openstack-kubernetes-cinder-csi.png" width="800"/>
 
-* Link :
+* Kubernetes with OpenStack Cinder CSI Plugin : https://ssup2.github.io/blog-software/docs/theory-analysis/kubernetes-openstack-cinder-csi-plugin/
 
 ## ClusterAPI test with openstack and kubernetes
 
 <img src="/images/architecture-openstack-clusterapi.png" width="800"/>
 
-* Link :
+* Kubernetes ClusterAPI Architecture on OpenStack : https://ssup2.github.io/blog-software/docs/theory-analysis/kubernetes-clusterapi-architecture-openstack/
