@@ -9,7 +9,7 @@ home-cloud-stack is toy project to build OpenStack cluster and build kubernetes 
 <img src="/images/architecture-odroidh2-cluster.png" width="800"/>
 
 * [ODROID-H2 Cluster Build](https://ssup2.github.io/blog-software/docs/record/odroid-h2-cluster-build/)
-* OpenStack on ODROID-H2 Cluster : 
+* [OpenStack Install on ODROID-H2 Cluster](https://ssup2.github.io/blog-software/docs/record/openstack-stein-install-kolla-ansible-ubuntu-18.04-odroid-h2/)
 
 ## OpenStack Octavia test with kubernetes external OpenStack controller
 
